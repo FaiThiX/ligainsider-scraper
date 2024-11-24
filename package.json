@@ -1,0 +1,28 @@
+{
+  "name": "ligainsider-scraper",
+  "version": "1.0.0",
+  "description": "A Tool to scrape ligainsider for given players",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FaiThiX/ligainsider-scraper/"
+  },
+  "keywords": [
+    "ligainsider",
+    "scraper",
+    "axios",
+    "rss",
+    "feed"
+  ],
+  "author": "René ",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "cheerio": "^1.0.0",
+    "fast-xml-parser": "^4.5.0",
+    "feed": "^4.2.2"
+  }
+}
