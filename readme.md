@@ -1,6 +1,6 @@
 # LigaInsider.de Scraper
 
-**Version:** 0.0.1  
+**Version:** 1.0.0  
 **Author:** FaiThiX  
 
 The LigaInsider.de Scraper is a Node.js tool for scraping [LigaInsider](https://www.ligainsider.de) to gather news about specified players. It generates an RSS feed with the latest updates and avoids duplicate entries by tracking previously fetched articles.
